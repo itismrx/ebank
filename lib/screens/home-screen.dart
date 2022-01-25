@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
       return [
         PersistentBottomNavBarItem(
           // icon: Icon(Icons.home),
-          icon: Icon(Ionicons.ios_notifications_outline),
+          icon: Icon(Icons.home),
           inactiveIcon: Icon(Icons.home_filled),
           // activeColorSecondary: Colors.green,
           activeColorPrimary: kBlueColor,
