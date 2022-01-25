@@ -10,7 +10,7 @@ I was away from my computer and the internet for about 3 months due to the black
 ## Screenshots
 | Home Screen | Stastics Screen | Transfer Screen |
 |-------|-----|-------|
-|![Home Screen](screenshots/HomeScreen.jpg "Home Screen")|![Stastics Screen](screenshots/StasticsScreen.jpg "Stastics Screen")| ![Transfer Screen](screenshots/TransferScreen.jpg "Transfer Screen")
+|![Home Screen](./screenshots/HomeScreen.jpg "Home Screen")|![Stastics Screen](screenshots/StasticsScreen.jpg "Stastics Screen")| ![Transfer Screen](screenshots/TransferScreen.jpg "Transfer Screen")
 
 <br>
 
