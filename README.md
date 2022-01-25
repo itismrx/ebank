@@ -5,7 +5,9 @@ I was away from my computer and the internet for about 3 months due to the black
 ## Original Design
 * Original desing is designed by [Rizki AR Khomaini](https://dribbble.com/Rizki_blank "Rizki AR Khomaini").
 <br>
+
 ![Original design from Dribble](https://raw.github.com/itismrx/ebank/main/screenshots/OriginalDesign.jpeg "Original Design")
+
 <br>
 
 ## Screenshots
